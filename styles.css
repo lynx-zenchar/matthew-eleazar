@@ -29,7 +29,7 @@ body {
   text-decoration: none;
   /* Use a clean, professional font for nav links (optional) */
   font-family: 'Open Sans', sans-serif;
-  font-size: 24px;
+  font-size: 18px;
 }
 .topnav a.active {
   background-color: #007BFF;
